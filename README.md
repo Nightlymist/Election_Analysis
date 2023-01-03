@@ -1,5 +1,5 @@
 # Election_Analysis
-For this simulation, the Colorado board of elections will fo an election audit for the U.S congressional precint. Currently the votes have been put onto csv file and could be calculated through excel. The problem is that it would take a long time to calculate what is desired through excel. Through python, the process could be automated and used for other elections.
+For this simulation, the Colorado board of elections will do an election audit for the U.S congressional precint. Currently the votes have been put onto csv file and could be calculated through excel. The problem is that the process of the calculations would take a long time to get what is desired through excel. Through python, the process could be automated and used for other elections. Shown below are the results of the election audit as well as the code preformed to get the results.
 
 
 ## Overview of Election Audit
