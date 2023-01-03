@@ -1,7 +1,9 @@
 # Election_Analysis
+For this simulation, the Colorado board of elections will fo an election audit for the U.S congressional precint. Currently the votes have been put onto csv file and could be calculated through excel. The problem is that it would take a long time to calculate what is desired through excel. Through python, the process could be automated and used for other elections.
+
 
 ## Overview of Election Audit
-In this simulation, I am going to be working with the Colorado board of elections in  election audit for U.S congressional precinct. My task for this job is to report the following tasks; total number of votes, total number and percentage of votes for each candidate, and winner of election. The point of the job is to automate the process that could be done in excel but now are using VS Code to do analysis. 
+In this simulation, I am going to be working with the Colorado board of elections in election audit for U.S congressional precinct. My task for this job is to report the following tasks; total number of votes, total number and percentage of votes for each candidate, and winner of election. The point of the job is to automate the process that could be done in excel but now are using VS Code to do analysis. 
 
 ## Election-Audit Results
 
